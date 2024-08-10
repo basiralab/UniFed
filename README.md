@@ -10,7 +10,7 @@ Our experiment has shown the outperformance of UniFed on various medical imaging
 ##  <img src="figs/icons/overview-logo.png" width="24" height="24" title="hover text"> Overview
 This is an overview of UniFed framework.
 
-<img src="figs/paper/unifedframework.png" width="550" height="270" title="hover text">
+<img src="figs/paper/unifedframework.png" width="750" height="370" title="hover text">
 
 ## Datasets
 
