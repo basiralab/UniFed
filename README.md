@@ -6,3 +6,13 @@ UniFed is a novel federated learning framework that learns from a mixture of hig
 
 ## 🏆 𝐎𝐮𝐫 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭
 Our experiment has shown the outperformance of UniFed on various medical imaging datasets including OCTMNIST, OrganAMNIST, and TissueMNIST datasets derived from the [MedMNIST](https://medmnist.com/) dataset with classification tasks under both strongly and moderately Non-IID data splits, and showing improvement in communication cost and convergence time over relevant baselines.
+
+##  <img src="figs/icons/overview-logo.png" width="24" height="24" title="hover text"> Overview
+This is an overview of UniFed framework.
+
+<img src="figs/paper/unifedframework.png" width="550" height="270" title="hover text">
+
+## Datasets
+
+
+## Installation
