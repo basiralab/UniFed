@@ -15,11 +15,6 @@ This is an overview of UniFed framework.
 
 <img src="figs/paper/unifedframework.png" width="750" height="370" title="hover text">
 
-## Datasets
-
-
-## Installation
-
 ## Citation
 If you use our source code, dataset, and experiments for your research or development, please cite the following paper:
 
@@ -33,4 +28,4 @@ If you use our source code, dataset, and experiments for your research or develo
 ```
 
 ## Contact
-If you have any questions, do not hesitate to contact us by hasaniatefe0@gmail.com. I will be happy to assist.
+If you have any questions, do not hesitate to reach out to us at hasaniatefe0@gmail.com or by creating an issue. We would be happy to assist you.
