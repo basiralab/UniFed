@@ -19,3 +19,18 @@ This is an overview of UniFed framework.
 
 
 ## Installation
+
+## Citation
+If you use our source code, dataset, and experiments for your research or development, please cite the following paper:
+
+```
+@article{hassani2024unifed,
+  title={UniFed: A Universal Federation of a Mixture of Highly Heterogeneous Medical Image Classification Tasks},
+  author={Hassani, Atefe and Rekik, Islem},
+  journal={arXiv preprint arXiv:2408.07075},
+  year={2024}
+}
+```
+
+## Contact
+If you have any questions, do not hesitate to contact us by hasaniatefe0@gmail.com. I will be happy to assist.
